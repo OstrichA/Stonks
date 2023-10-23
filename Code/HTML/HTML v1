@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Website</title>  
+
+<Script>
+
+alert("Pfefferpotthast")
+
+var Age = prompt("How old are you?")
+
+</Script>
+
+</head>
+
+<style>
+
+.topnav a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+h1 {font-family: Helvetica; font-size: 42px;}
+
+h1 {
+
+text-align: center;
+
+} 
+
+</style>
+
+<body>
+
+<div class="topnav">
+    <a class="active" href="file:///C:/Users/vimal/Downloads/Website.htm" target="_blank">Home</a>
+    <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">About</a>
+    <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">Contact</a>
+    <input type="text" placeholder="Search..">
+    </div>
+
+<br>
+<br>
+
+<h1><code><sup><del><q>Website</q></del></sup></code> Stonks</h1>
+
+<br>
+<br>
+<br>
+<br>
+
+<ol type="I" reversed>
+<li>fdguhjkfdguhjs</li>
+<li>erguiyerghigshb</li>
+<li>versgyevtth</li>
+</ol>
+
+<dl>
+<dt>Dinoser:</dt>
+<dd>Bad</dd>
+<dt>Stonks:</dt>
+<dd>Sehr Gut</dd>
+</dl>
+
+<ol type="I">
+  <li>First item</li>
+  <ol type="A">
+    <li>Item 1, Subitem 1</li>
+    <li>Item 1, Subitem 2</li>
+  </ol>
+  <li>Second item</li>
+  <ol type="A">
+    <li>Item 2, Subitem 1</li>
+    <li>Item 2, Subitem 2</li>
+  </ol>
+</ol>
+
+<table>
+<tr>
+<td>Name</td>  
+<td>Age</td>
+<td>Occupation</td>
+</tr>
+<tr>
+<td>Bob1</td>
+<td>74</td>
+<td>Helicopter rotor</td>
+</tr>  
+</table>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis nulla non dui vehicula, sit amet convallis purus finibus. Nunc dolor</p>
+<p>mauris, facilisis quis maximus ac, pretium eget justo. Ut a finibus orci. Vivamus elementum consequat lacus, ac semper odio mollis et.</p>
+<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris rhoncus ut est ac fringilla. Phasellus id</p>
+<p>neque felis. In mauris elit, maximus at purus sit amet, fringilla mollis dui. Phasellus vulputate rhoncus interdum. Duis viverra elit non</p>
+<p>metus mollis pulvinar. Cras dignissim, nibh ac pharetra ullamcorper, sem nisi vehicula erat, id sollicitudin sapien dolor porta est.</p>
+
+</body>
+  
+</html>
