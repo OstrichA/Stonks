@@ -1,0 +1,10 @@
+from tkinter import*
+window=Tk()
+drawing=Canvas(window, height=500, width=500)
+drawing.pack()
+rect=drawing.create_rectangle(100, 100, 300, 200)
+square=drawing.create_rectangle(30, 30, 80, 80)
+oval=drawing.create_oval(100, 100, 300, 200)
+circle=drawing.create_oval(30, 30, 80, 80)
+circle=drawing.create_oval(300, 300, 400, 400, outline="red", fill="blue")
+mainloop()
